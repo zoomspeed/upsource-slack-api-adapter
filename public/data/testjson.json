@@ -1,0 +1,53 @@
+{
+    "majorVersion": 2019,
+    "minorVersion": 1,
+    "projectId": "shop-shop2",
+    "dataType": "ParticipantStateChangedFeedEventBean",
+    "data": {
+      "base": {
+        "userIds": [
+          {
+            "userId": "9f86a7a6-142a-4600-a0e7-86f43ece2f33",
+            "userName": "aaa",
+            "userEmail": "eyz90@interpark.com"
+          },
+          {
+            "userId": "38bb0151-10d7-45ff-abba-178c6ac66ce5",
+            "userName": "333",
+            "userEmail": "maxeasy2@interpark.com"
+          },
+          {
+            "userId": "32ad5e7e-7b23-466b-8b03-3f70c9de99ab",
+            "userName": "ccc",
+            "userEmail": "neptune@interpark.com"
+          },
+          {
+            "userId": "bb101fcc-40de-4b50-a3a7-f35b5ba63e51",
+            "userName": "aaa",
+            "userEmail": "namni1@interpark.com"
+          },
+          {
+            "userId": "bb101fcc-40de-4b50-a3a7-f35b5ba63e51",
+            "userName": "aaa",
+            "userEmail": "ykh1649@interpark.com"
+          }
+        ],
+        "reviewNumber": 1,
+        "reviewId": "SS-CR-1",
+        "date": 1587628929618,
+        "actor": {
+          "userId": "38bb0151-10d7-45ff-abba-178c6ac66ce5",
+          "userName": "sdf",
+          "userEmail": "maxeasy2@interpark.com"
+        },
+        "feedEventId": "1587628929619#shop-shop2#bd560da4-70f6-4337-9021-dd300a02d9a1"
+      },
+      "participant": {
+        "userId": "38bb0151-10d7-45ff-abba-178c6ac66ce5",
+        "userName": "bbb",
+        "userEmail": "maxeasy2@interpark.com"
+      },
+      "oldState": 1,
+      "newState": 2
+    }
+}
